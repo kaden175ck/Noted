@@ -1,6 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import { Container } from "react-bootstrap"
 import { Navigate, Route, Routes } from "react-router-dom"
+import { NewNote } from "./NewNote"
 
 function App() {
   return (
