@@ -1,4 +1,4 @@
-<!-- npm i react-bootstrap bootstrap react-router-dom -->
+<!-- npm i react-bootstrap bootstrap react-router-dom react-select-->
 
 # React + TypeScript + Vite
 
