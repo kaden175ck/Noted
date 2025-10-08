@@ -1,6 +1,10 @@
 {
   "name": "noted",
+
+
   "homepage": "https://kaden175ck.github.io/Noted/",
+
+  
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +14,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
 
+
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
