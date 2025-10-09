@@ -1,4 +1,6 @@
-<!-- npm i react-bootstrap bootstrap react-router-dom react-select-->
+<!-- npm i react-bootstrap bootstrap react-router-dom react-select uuid-->
+
+Demo: https://kaden175ck.github.io/Noted/
 
 # React + TypeScript + Vite
 
