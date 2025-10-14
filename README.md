@@ -1,6 +1,8 @@
 ﻿Demo
 
 - https://kaden175ck.github.io/Noted/ (auto-redirects to #/)
+  ![Noted screenshot](src/assets/screenshot.png)
+  Note: Your view may differ because data is stored in localStorage on your device.
 
 Overview
 
